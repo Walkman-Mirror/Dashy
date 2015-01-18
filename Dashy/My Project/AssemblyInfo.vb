@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Dashy")> 
 <Assembly: AssemblyDescription("One dashboard for all your system info.")> 
-<Assembly: AssemblyCompany("DeavmiOSS")> 
+<Assembly: AssemblyCompany("Crowbar")> 
 <Assembly: AssemblyProduct("Dashy")> 
-<Assembly: AssemblyCopyright("")> 
+<Assembly: AssemblyCopyright("GNU GPL v3.0 or above - Crowbar 2015")> 
 <Assembly: AssemblyTrademark("Monitoring everything.")> 
 
 <Assembly: ComVisible(False)>
